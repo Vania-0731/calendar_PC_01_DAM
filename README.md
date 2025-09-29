@@ -27,6 +27,7 @@ El calendario muestra una vista mensual con:
 - Días de la semana en español
 - Grilla de días con colores temáticos
 - Eventos especiales (como "Dart" en los martes)
+<img width="1886" height="1130" alt="Captura de pantalla 2025-09-28 200603" src="https://github.com/user-attachments/assets/3674d382-c2cf-4434-8dc6-f50e14279804" />
 
 
 ## Instalación y Ejecución
@@ -48,4 +49,6 @@ cd calendar_PC_01_DAM
 flutter pub get
 ```
 
-3. Ejecuta la aplicación, en este caso usaremos lo enseñado en clase seleccionar el archivo main.dart que se encuentra dentro de la carpeta lib en visual estudio code dirigrse a run and debug (Ctrl + Shift + D) y seleccionar Run and Debug:
+3. Ejecuta la aplicación, en este caso usaremos lo enseñado en clase seleccionar el archivo main.dart que se encuentra dentro de la carpeta lib en visual estudio code dirigrse a run and debug (Ctrl + Shift + D) y seleccionar Run and Debug
+   <img width="1633" height="892" alt="image" src="https://github.com/user-attachments/assets/dadc1c9e-57a8-4c91-87a1-f57f6fcad455" />
+
